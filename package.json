@@ -1,0 +1,30 @@
+{
+  "name": "wombocombo",
+  "version": "1.0.0",
+  "description": "An attempt to combine multiple front-end libraries in one website!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crrmacarse/wombocombo.git"
+  },
+  "keywords": [
+    "wombocombo",
+    "crrmacarse",
+    "frontend",
+    "react",
+    "jekyll",
+    "veujs",
+    "svelte",
+    "ejs",
+    "typescript"
+  ],
+  "author": "@crrmacarse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crrmacarse/wombocombo/issues"
+  },
+  "homepage": "https://github.com/crrmacarse/wombocombo#readme"
+}
